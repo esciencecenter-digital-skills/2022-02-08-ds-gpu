@@ -7,7 +7,7 @@ Digital Skills][ds-site], and the Carpentries [Software Carpentry][swc-site],
 [Data Carpentry][dc-site], [Library Carpentry][lc-site].
 We are committed to offering a pleasant setup experience for our learners and
 organizers. If you run into problems, or would like to suggest improvements,
-please [submit an issue][issues] or [mail us][email].
+please [submit an issue][issues] or [mail us][email]. 
 
 ## Use this template
 
